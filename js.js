@@ -48,7 +48,7 @@ ScrollReveal().reveal('.home-content p, .about-contect', { origin: 'right' });
 
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Especialista en climatizacion HVAC.', 'Reparaciones de calderas murales de doble servicio', 'Tecnico en refrigeracion trifasica, monofasica con tecnologia inverter.', ' Desarrollo web Front-End Developer.', 'Marketing digital y Desarrollo de contenidos .', 'Ventas en plataformas digitales y sitios web', 'Agente comercial, gestiones adminstrativas y cobranzas.', 'Solidas habilidades en atención al cliente y postventa.'],
+    strings: ['Reparaciones de calderas murales de doble servicio', 'Tecnico en refrigeracion trifasica, monofasica con tecnologia inverter.', 'Especialista en climatizacion HVAC.', ' Desarrollo web Front-End Developer.', 'Marketing digital y Desarrollo de contenidos.', 'Ventas en plataformas digitales y sitios web.', 'Agente comercial, gestiones adminstrativas y cobranzas.', 'Solidas habilidades en atención al cliente y postventa.'],
     typeSpeed: 100,
     BackSpeed: 200,
     backDelay: 1000,
